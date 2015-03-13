@@ -16,17 +16,7 @@ setup(
     packages=[
         "adminlink",
     ],
-    include_package_data=True,
     install_requires=[
         "Django==1.7.4",
     ],
-    classifiers=[
-        'Environment :: Web Environment',
-        'Intended Audience :: Developers',
-        'Operating System :: OS Independent',
-        'Programming Language :: Python',
-        'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
-        'Topic :: Software Development :: Libraries :: Python Modules',
-        'Programming Language :: Python',
-    ]
 )
